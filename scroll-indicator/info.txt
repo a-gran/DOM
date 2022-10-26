@@ -1,0 +1,5 @@
+FrontCoder
+
+Практика JavaScript. Задача #6. Делаем индикатор скролла. Scroll Indicator
+
+https://www.youtube.com/watch?v=sb4dE8kA0hw&list=PLDmWuBfh49Z4xKRClnk3IOsZD5qLCAdXf&index=8&t=4s

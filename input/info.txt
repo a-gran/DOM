@@ -1,0 +1,5 @@
+FrontCoder
+
+Практика JavaScript. Задача #1. Работаем с input.
+
+https://www.youtube.com/watch?v=lR7RyisQB-o&list=PLDmWuBfh49Z4xKRClnk3IOsZD5qLCAdXf&index=3&t=0s

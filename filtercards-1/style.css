@@ -1,0 +1,106 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: cornsilk;
+  font-family: sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: aqua;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: solid 5px orange;
+}
+
+ul {
+  display: flex;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  list-style-type: none;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.block-cover {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.box {
+  border: solid 5px;
+  box-shadow: 6px 7px 28px 0 rgba(16, 16, 16, 0.7);
+  min-height: 140px;
+  min-width: calc(22% - 28px);
+  padding: 0 10px;
+  margin: 30px;
+}
+
+.box:last-child {
+  margin-right: 0;
+}
+
+.link-alizarin,
+.alizarin {
+  color: #e74c3c;
+}
+
+.link-wisteria,
+.wisteria {
+  color: #8e44ad;
+}
+
+.link-emerland,
+.emerland {
+  color: #2ecc71;
+}
+
+.link-sunflower,
+.sunflower {
+  color: #f1c40f;
+}
+
+.link-belizehole,
+.belizehole {
+  color: #2980b9;
+}
+
+.hide {
+  opacity: 1;
+  animation-name: hideBox;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes hideBox {
+  to {
+    opacity: 0;
+    min-height: 0;
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+}

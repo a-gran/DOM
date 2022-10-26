@@ -1,0 +1,5 @@
+FrontCoder
+
+Практика JavaScript. Задача #3. Делаем красивый ввод текста. Обработка input
+
+https://www.youtube.com/watch?v=UWOGhRM-uOE&list=PLDmWuBfh49Z4xKRClnk3IOsZD5qLCAdXf&index=5&t=0s

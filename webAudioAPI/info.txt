@@ -1,0 +1,6 @@
+Prog-Time
+
+JavaScript практика: визуализация голоса с микрофона. Web Audio API
+
+https://www.youtube.com/watch?v=iw-VpddyCjU
+https://prog-time.ru/web-audio-api-praktika-vizualizatsiya-golosa-s-mikrofona/

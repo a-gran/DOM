@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+.text {
+  display: inline-flex;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  width: 100px;
+}
+
+.input-wrap {
+  height: 40px;
+  overflow: hidden;
+  position: relative;
+}
+
+.input-wrap:before {
+  content: '';
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 4px;
+  bottom: 4px;
+  opacity: 0;
+  box-shadow: 0 0 32px 16px #ffffff;
+  transition: all linear 0.3s;
+}
+
+.input-wrap--shadow:before {
+  opacity: 1;
+}
+
+.input {
+  padding-left: 10px;
+  border: 0;
+  height: 100%;
+  width: 100%;
+  outline: none;
+}
+
+#text {
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}

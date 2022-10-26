@@ -1,0 +1,5 @@
+FrontCoder
+
+Практика JavaScript. Задача #4. Делаем Progress bar
+
+https://www.youtube.com/watch?v=k_lFxn7fCk8&list=PLDmWuBfh49Z4xKRClnk3IOsZD5qLCAdXf&index=6&t=0s
