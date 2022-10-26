@@ -1,0 +1,9 @@
+{
+  "name": "li",
+  "version": "1.0.0",
+  "description": "li js DOM html",
+  "main": "index.js",
+  "repository": "https://github.com/awebdeff/DOM/tree/master/li",
+  "author": "ash <awebdeff@gmail.com>",
+  "license": "MIT"
+}
